@@ -2,7 +2,7 @@
   "name": "reactrouter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://soniyasoni3331.github.io/ReactRouterProject",
+  "homepage": "http://soniyasoni3331.github.io/reactRouter",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
